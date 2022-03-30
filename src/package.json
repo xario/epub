@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "decomment": "^0.9.5",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mkdirp": "^1.0.4",
+    "request-promise-native": "^1.0.9",
+    "swig": "^1.4.2"
+  }
+}
